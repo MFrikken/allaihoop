@@ -1,0 +1,6 @@
+[submodule "allaihoop_web"]
+	path = allaihoop_web
+	url = https://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@github.com/MFrikken/allaihoop_web
+[submodule "allaihoop_imagehandler"]
+	path = allaihoop_imagehandler
+	url = https://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@github.com/MFrikken/allaihoop_imagehandler
